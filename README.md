@@ -1,4 +1,7 @@
 [Sprunki game online](https://sprunki-games.online)
+[Sprunki green online](https://sprunkigreen.online)
+[Fnaf game online](https://fnaf-game.online)
+[Repo game online](https://repo-game.online)
 
 
 <!--
