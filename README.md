@@ -10,6 +10,8 @@
 
 [evernote sprunki-games](https://lite.evernote.com/note/3e21ad97-e98f-8f94-376e-e5f0b0db27c0)
 
+[climate sprunki-games](https://climate.stripe.com/5BjnVL)
+
 <!--
 **yhif/yhif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
