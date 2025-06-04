@@ -12,6 +12,8 @@
 
 [creem.io Coolcoke](https://www.creem.io/bip/coolcoke)
 
+[lovable sprunki-games-online](https://launched.lovable.dev/sprunki-games-online)
+
 
 <!--
 **yhif/yhif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
