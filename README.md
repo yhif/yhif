@@ -1,11 +1,3 @@
-[Sprunki game online](https://sprunki-games.online)
-
-[Sprunki green online](https://sprunkigreen.online)
-
-[Fnaf game online](https://fnaf-game.online)
-
-[Repo game online](https://repo-game.online)
-
 [cal.com CoolCoke](https://cal.com/coolcoke)
 
 [linktr.ee CoffeeWithIce](https://linktr.ee/CoffeeWithIce)
@@ -16,6 +8,7 @@
 
 [lovable.app sprunki-games-online](https://launched.lovable.app/sprunki-games-online)
 
+[evernote sprunki-games](https://lite.evernote.com/note/3e21ad97-e98f-8f94-376e-e5f0b0db27c0)
 
 <!--
 **yhif/yhif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
